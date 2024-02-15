@@ -23,6 +23,10 @@
     {
       "name": "Vanessa Pasque",
       "email": "lith@amykron.com"
+    },
+    {
+      "name": "Hoang Nguyen",
+      "email": "max26292@gmail.com"
     }
   ],
   "main": "./lib",
@@ -36,7 +40,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/strapi-community/strapi-provider-upload-google-cloud-storage.git"
+    "url": "git+https://github.com/max26292/strapi-provider-upload-google-cloud-storage.git"
   },
   "dependencies": {
     "@google-cloud/storage": "^6.10.0",
