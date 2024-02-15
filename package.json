@@ -1,6 +1,6 @@
 {
-  "name": "@strapi-community/strapi-provider-upload-google-cloud-storage",
-  "version": "4.10.5",
+  "name": "@max26292/strapi-provider-upload-google-cloud-storage",
+  "version": "4.10.7",
   "description": "(Non-official) Google Cloud Storage Provider for Strapi Upload",
   "keywords": [
     "strapi",
